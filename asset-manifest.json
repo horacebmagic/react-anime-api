@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-anime-api/static/css/main.69052201.chunk.css",
+    "main.js": "/react-anime-api/static/js/main.c561b4d2.chunk.js",
+    "main.js.map": "/react-anime-api/static/js/main.c561b4d2.chunk.js.map",
+    "runtime-main.js": "/react-anime-api/static/js/runtime-main.39a0785a.js",
+    "runtime-main.js.map": "/react-anime-api/static/js/runtime-main.39a0785a.js.map",
+    "static/js/2.fe196926.chunk.js": "/react-anime-api/static/js/2.fe196926.chunk.js",
+    "static/js/2.fe196926.chunk.js.map": "/react-anime-api/static/js/2.fe196926.chunk.js.map",
+    "static/js/3.b4abfc2f.chunk.js": "/react-anime-api/static/js/3.b4abfc2f.chunk.js",
+    "static/js/3.b4abfc2f.chunk.js.map": "/react-anime-api/static/js/3.b4abfc2f.chunk.js.map",
+    "index.html": "/react-anime-api/index.html",
+    "static/css/main.69052201.chunk.css.map": "/react-anime-api/static/css/main.69052201.chunk.css.map",
+    "static/js/2.fe196926.chunk.js.LICENSE.txt": "/react-anime-api/static/js/2.fe196926.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39a0785a.js",
+    "static/js/2.fe196926.chunk.js",
+    "static/css/main.69052201.chunk.css",
+    "static/js/main.c561b4d2.chunk.js"
+  ]
+}
